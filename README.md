@@ -18,7 +18,7 @@ A imobiliária InsightPlaces, situada na cidade do Rio de Janeiro, está enfrent
 
 | :placard: Vitrine.Dev |     |
 | -------------  | --- |
-| :sparkles: Nome        | **Titulo do meu projeto**
+| :sparkles: Nome        | **InsightPlaces**
 | :label: Tecnologias | pyhton, spark, pyspark
 | :rocket: URL         | [projeto no Github](https://github.com/orickprazeres/challenge_data_science_2_InsightPlaces)
 | :fire: Deploy     | *em breve*
