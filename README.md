@@ -3,7 +3,7 @@ EM ANDAMENTO
 <h1 align="center"> AluraChallengeDados2 - InsightPlaces  </h1>
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/ricardo-prazeres/" target="_blank" rel="noopener noreferrer">
+  <a href="https://www.linkedin.com/in/ricardo-prazeres/" target="_blank">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"><img></a>
   <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"><img>
   <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"><img>
