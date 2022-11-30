@@ -24,10 +24,11 @@ A imobiliária InsightPlaces, situada na cidade do Rio de Janeiro, está enfrent
 | :fire: Deploy     | *em breve*
 
 <!-- Inserir imagem com a #vitrinedev ao final do link -->
-<!-- ![](https://via.placeholder.com/1200x500.png?text=imagem+lindona+do+meu+projeto#vitrinedev)#vitrinedev--> 
+<!-- ![](https://via.placeholder.com/1200x500.png?text=imagem+lindona+do+meu+projeto#vitrinedev)--> 
 
 ## Detalhes do projeto
 
 Durante esse projeto temos objetivo de ler e fazer o tratamento do histórico dos preços de imóveis no Rio de Janeiro, construir um modelo de regressão para precificar imóveis e criar um recomendador de imóveis. Para cada uma dessas etapas vamos utilizar a ferramenta PySpark que oferece uma melhor performance ao trabalharmos com grandes volumes de dados.
 
+#vitrinedev
 * em breve mais informações sobre o desafio
