@@ -1,5 +1,5 @@
 <h5 align= "center"> *** PROJETO EM ANDAMENTO *** </h5>
-<h1 align="center"> AluraChallengeDados2 - InsightPlaces  </h1>
+<h1 align="center"> InsightPlaces  </h1>
 
 <div align="center">
   <a href="https://www.linkedin.com/in/ricardo-prazeres/" target="_blank">
